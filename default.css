@@ -1,0 +1,31 @@
+img {
+    width: 25%; 
+    height: 25%;
+}
+
+h1  {
+    color:red;
+    font-size: 60px;
+    text-align: center;
+}
+
+h2  {
+    color: blue;
+    font-size: 40px;
+    text-align: center;
+}
+
+h3  {
+    font-size: 30px;
+    text-align:left;
+}
+
+#personal   {
+    color: rgb(2, 2, 115);
+}
+
+.description {
+    display: flex;
+    flex-direction:row;
+    justify-content:space-around;
+}
